@@ -5,9 +5,9 @@
     "passes": 27,
     "pending": 0,
     "failures": 0,
-    "start": "2023-03-22T21:22:13.179Z",
-    "end": "2023-03-22T21:22:13.335Z",
-    "duration": 156
+    "start": "2023-03-23T15:15:22.593Z",
+    "end": "2023-03-23T15:15:22.753Z",
+    "duration": 160
   },
   "tests": [
     {
@@ -41,7 +41,7 @@
     {
       "title": "does not modify the original array",
       "fullTitle": "index.js myMap does not modify the original array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -234,7 +234,7 @@
     {
       "title": "does not modify the original array",
       "fullTitle": "index.js myMap does not modify the original array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
